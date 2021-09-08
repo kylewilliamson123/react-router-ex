@@ -1,0 +1,28 @@
+.items{
+    border-radius: 10px;
+    box-shadow: 0px 10px 20px 1px grey;
+    margin-left:.1px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    background: rgb(255, 255, 255);
+    align-items: center;
+    min-width: 25%;
+    max-width: 25%;
+    height: 50vh;
+    margin-top: 40px;
+
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    margin: -20px;
+}
+img{
+    height: 200px;
+    width: auto;
+    margin-top: 30px;
+    
+}
+

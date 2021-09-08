@@ -1,0 +1,29 @@
+p{
+    font-size: 20px;
+}
+.item-det{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 60%;
+    margin: 40px auto;
+    
+    
+}
+h3{
+    font-size: 32px;
+}
+button{
+    height: 40px;
+    width: 100px;
+    background: black;
+    color: white;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+img{
+    height: 400px;
+    width: auto;
+}
